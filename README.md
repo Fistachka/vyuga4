@@ -1,13 +1,13 @@
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
-"Звенит январская вьюга" ("С любовью встретиться") 1972г. 2 часть
-![44](https://github.com/user-attachments/assets/5cdf1030-c742-4c5e-bd18-1b55e6aca58d)
+"Звенит январская вьюга" ("С любовью встретиться") 1972г. 4 часть
+![88](https://github.com/user-attachments/assets/42312859-f7c5-4ec6-b3f7-d0652df8782b)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/ryju5ZYUBws" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-VcRbvg6HaE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 Звенит январская вьюга
-И ливни хлещут упруго
+А ливни хлещут упруго
 И звёзды мчатся по кругу
 И шумят города
 Не видят люди друг друга
@@ -16,19 +16,19 @@
 А потом не найдут никогда
 
 Предыдущий урок:
-![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/521231b7-8d6c-4853-b028-3df7a279c0f4 =200x200)
-stolbitsa.com/fistachka/vyuga<br><br>
+![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/e69f8e4e-84aa-4ed7-b997-1df18a645201 =200x200)
+stolbitsa.com/fistachka/vyuga3<br><br>
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
-“The January Blizzard Sings” “Meeting Love”) 1972 2 st verse
-![44](https://github.com/user-attachments/assets/5cdf1030-c742-4c5e-bd18-1b55e6aca58d)
+“The January Blizzard Sings” “Meeting Love”) 1972 4 st verse
+![88](https://github.com/user-attachments/assets/42312859-f7c5-4ec6-b3f7-d0652df8782b)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/XEzxaQ3UCtg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RQta7Mc7l_Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 Zvenit yanvarskaya v'yuga
-I livni hleshchut uprugo
+A livni hleshchut uprugo
 I zvyozdy mchatsya po krugu
 I shumyat goroda
 Ne vidyat lyudi drug druga
@@ -37,11 +37,6 @@ Teryayut lyudi drug druga
 A potom ne najdut nikogda
 
 Previous lesson:
-![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/521231b7-8d6c-4853-b028-3df7a279c0f4 =200x200)
-stolbitsa.com/fistachka/vyuga<br><br>
-
-![88](https://github.com/user-attachments/assets/42312859-f7c5-4ec6-b3f7-d0652df8782b)
-![77](https://github.com/user-attachments/assets/6585541f-9089-45dd-8909-32072a189917)
-
-
+![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/e69f8e4e-84aa-4ed7-b997-1df18a645201 =200x200)
+stolbitsa.com/fistachka/vyuga3<br><br>
 
