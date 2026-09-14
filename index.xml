@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>vyuga4</repo>
-  <version>v1.0.6</version>
+  <version>v1.0.7</version>
   <next number="1" owner="Fistachka" repo="vyuga3"/>
   <readme>
     <ru>3c9cba05010217ca1c127866ff303681dadaef7d10e72cdf4990568456971202</ru>
@@ -123,14 +123,14 @@
     <tonalities>8</tonalities>
     <video name="31t.mp4" size="738004" type="video/mp4" volume="0.5">fa3fc425db06f4ea5b0893a5ed35d5189802833460aa473277741701e5437ae6</video>
     <notes>
-      <note number="1" values="28" ticks="98" durationTicks="48" ppq="96" velocity="0.74"/>
-      <note number="2" values="38" ticks="147" durationTicks="93" ppq="96" velocity="0.843"/>
-      <note number="3" values="28" ticks="240" durationTicks="95" ppq="96" velocity="0.724"/>
-      <note number="4" values="18" ticks="334" durationTicks="79" ppq="96" velocity="0.819"/>
-      <note number="5" values="28" ticks="404" durationTicks="46" ppq="96" velocity="0.724"/>
-      <note number="6" values="38" ticks="457" durationTicks="48" ppq="96" velocity="0.717"/>
-      <note number="7" values="48" ticks="516" durationTicks="85" ppq="96" velocity="0.827"/>
-      <note number="8" values="18" ticks="607" durationTicks="95" ppq="96" velocity="0.78"/>
+      <note number="1" values="28" ticks="105" durationTicks="48" ppq="96" velocity="0.74"/>
+      <note number="2" values="38" ticks="154" durationTicks="93" ppq="96" velocity="0.843"/>
+      <note number="3" values="28" ticks="229" durationTicks="95" ppq="96" velocity="0.724"/>
+      <note number="4" values="18" ticks="297" durationTicks="79" ppq="96" velocity="0.819"/>
+      <note number="5" values="28" ticks="388" durationTicks="46" ppq="96" velocity="0.724"/>
+      <note number="6" values="38" ticks="452" durationTicks="48" ppq="96" velocity="0.717"/>
+      <note number="7" values="48" ticks="522" durationTicks="115" ppq="96" velocity="0.827"/>
+      <note number="8" values="18" ticks="636" durationTicks="95" ppq="96" velocity="0.78"/>
     </notes>
   </exercise>
   <exercise number="8">
