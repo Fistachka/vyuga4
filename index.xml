@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>vyuga4</repo>
-  <version>v1.0.5</version>
+  <version>v1.0.6</version>
   <next number="1" owner="Fistachka" repo="vyuga3"/>
   <readme>
     <ru>3c9cba05010217ca1c127866ff303681dadaef7d10e72cdf4990568456971202</ru>
@@ -87,14 +87,14 @@
     <tonalities>8</tonalities>
     <video name="29t.mp4" size="795086" type="video/mp4" volume="0.5">95fe9edca7db8dcfb560707dfdffd6825da6dc90fdff1b90b268a1d64f5b8c3a</video>
     <notes>
-      <note number="1" values="28" ticks="96" durationTicks="48" ppq="96" velocity="0.748"/>
-      <note number="2" values="38" ticks="145" durationTicks="93" ppq="96" velocity="0.85"/>
-      <note number="3" values="28" ticks="238" durationTicks="95" ppq="96" velocity="0.732"/>
-      <note number="4" values="18" ticks="332" durationTicks="90" ppq="96" velocity="0.819"/>
-      <note number="5" values="28" ticks="412" durationTicks="46" ppq="96" velocity="0.732"/>
-      <note number="6" values="38" ticks="471" durationTicks="48" ppq="96" velocity="0.724"/>
-      <note number="7" values="48" ticks="515" durationTicks="95" ppq="96" velocity="0.827"/>
-      <note number="8" values="18" ticks="614" durationTicks="95" ppq="96" velocity="0.78"/>
+      <note number="1" values="28" ticks="150" durationTicks="48" ppq="96" velocity="0.748"/>
+      <note number="2" values="38" ticks="199" durationTicks="93" ppq="96" velocity="0.85"/>
+      <note number="3" values="28" ticks="264" durationTicks="95" ppq="96" velocity="0.732"/>
+      <note number="4" values="18" ticks="345" durationTicks="90" ppq="96" velocity="0.819"/>
+      <note number="5" values="28" ticks="431" durationTicks="46" ppq="96" velocity="0.732"/>
+      <note number="6" values="38" ticks="476" durationTicks="48" ppq="96" velocity="0.724"/>
+      <note number="7" values="48" ticks="547" durationTicks="159" ppq="96" velocity="0.827"/>
+      <note number="8" values="18" ticks="704" durationTicks="95" ppq="96" velocity="0.78"/>
     </notes>
   </exercise>
   <exercise number="6">
@@ -105,14 +105,14 @@
     <tonalities>8</tonalities>
     <video name="30t.mp4" size="665657" type="video/mp4" volume="0.5">753e3d87f9def539a8df31f0305d69c50c6e36ea7e68dcf9c2a3310900ed513e</video>
     <notes>
-      <note number="1" values="18" ticks="118" durationTicks="48" ppq="96" velocity="0.74"/>
-      <note number="2" values="28" ticks="167" durationTicks="93" ppq="96" velocity="0.843"/>
-      <note number="3" values="18" ticks="260" durationTicks="95" ppq="96" velocity="0.724"/>
-      <note number="4" values="79" ticks="354" durationTicks="70" ppq="96" velocity="0.819"/>
-      <note number="5" values="18" ticks="423" durationTicks="46" ppq="96" velocity="0.724"/>
-      <note number="6" values="28" ticks="493" durationTicks="48" ppq="96" velocity="0.717"/>
-      <note number="7" values="38" ticks="537" durationTicks="95" ppq="96" velocity="0.827"/>
-      <note number="8" values="18" ticks="639" durationTicks="95" ppq="96" velocity="0.78"/>
+      <note number="1" values="18" ticks="120" durationTicks="48" ppq="96" velocity="0.74"/>
+      <note number="2" values="28" ticks="169" durationTicks="93" ppq="96" velocity="0.843"/>
+      <note number="3" values="18" ticks="249" durationTicks="95" ppq="96" velocity="0.724"/>
+      <note number="4" values="79" ticks="333" durationTicks="50" ppq="96" velocity="0.819"/>
+      <note number="5" values="18" ticks="382" durationTicks="46" ppq="96" velocity="0.724"/>
+      <note number="6" values="28" ticks="452" durationTicks="48" ppq="96" velocity="0.717"/>
+      <note number="7" values="38" ticks="512" durationTicks="95" ppq="96" velocity="0.827"/>
+      <note number="8" values="18" ticks="641" durationTicks="95" ppq="96" velocity="0.78"/>
     </notes>
   </exercise>
   <exercise number="7">
